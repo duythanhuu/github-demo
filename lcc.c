@@ -4,13 +4,7 @@ void main(){
     if (/* condition */)
     {
         {
-            {
-                {
-                    {
-                        
-                    }
-                }
-            }
+
         }
     }
     
