@@ -4,7 +4,7 @@ void main(){
     if (/* condition */)
     {
         {
-            del 
+            
         }
     }
     
