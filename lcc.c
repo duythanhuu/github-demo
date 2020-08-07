@@ -1,11 +1,5 @@
-#include<stdio>
+#include<stdio.h>
 
 void main(){
-    if (/* condition */)
-    {
-        {
-            
-        }
-    }
     
 }
