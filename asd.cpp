@@ -16,7 +16,7 @@ int main(int argc, char **argv)
 	ifs >> c;
 	ifs.close();
 
-	codeASCII(c);
+	codeASCII('A');
 
 	return 0;
 }
